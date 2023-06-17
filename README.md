@@ -1,4 +1,5 @@
 # Vrinda-Store-Annual-Report
+                                                              
                                                               **Features**
 Comprehensive Excel-based solution for tracking and analyzing sales,inventory and customer data,enabling efficient management and informed decision making.
                                                             **Sample Insights**
@@ -8,6 +9,5 @@ Comprehensive Excel-based solution for tracking and analyzing sales,inventory an
 •Amazon, Flipkart and Myntra Channels are max contributing (~80%).
                                                **Final Conclusions to Improve Vrinda store Sales:**
 •	Target **Women**  customers of age group (**30-49** yrs) living in **Maharashtra**, **Karnataka** and **Uttar Pradesh**  by showing ads/offers/coupons available on **Amazon** , **Flipkart** and **Myntra**
-
 
 
